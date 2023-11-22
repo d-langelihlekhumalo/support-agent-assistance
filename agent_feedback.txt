@@ -1,0 +1,5 @@
+{
+    "user_question": "who is pieter?",
+    "answer": "Pieter de Villiers is the Chief Executive Officer and Co-Founder of Clickatell. He is a South African born entrepreneur with over 21 years of experience in the global telecoms, mobile messaging, and mobile payments industries. Pieter has been recognized for his leadership and achievements in the mobile industry, and he actively works to promote and empower entrepreneurs in Africa.",
+    "correction": "Pieter de Villiers is the Chief Executive Officer and Co-Founder of Clickatell. He is a South African born entrepreneur with over 21 years of experience in the global telecoms, mobile messaging, and mobile payments industries. Pieter has been recognized for his leadership and achievements in the mobile industry, and he actively works to promote and empower entrepreneurs in Africa. Pieter also enjoys teaching students about chat commerce at Pearson institute. "
+}
